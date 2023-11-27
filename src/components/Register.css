@@ -1,0 +1,16 @@
+.Register
+{
+ background-color: #282c34;
+ background-image: url("https://images.pexels.com/photos/433301/pexels-photo-433301.jpeg?cs=srgb&dl=clouds-engine-iron-433301.jpg&fm=jpg");
+ background-image: url("https://wallpaperboat.com/wp-content/uploads/2019/10/cool-website-background-15.jpg");
+ background-image: url("https://www.iave.org/iavewp/wp-content/uploads/2020/06/purple-background-registration.png");
+ background-size: cover;
+ text-align: center;
+ min-height: 100vh;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ font-size: calc(10px + 2vmin);
+ color: rgb(189, 83, 83);
+}

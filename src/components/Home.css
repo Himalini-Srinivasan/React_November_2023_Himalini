@@ -1,0 +1,17 @@
+.Home
+{
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-professional-car-maintenance-and-repair-poster-image_195257.jpg");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZt1UDpVl8dI6n_VJaqEV03KZOEgDvFgIh2MrWr_9fUruVNOuvNlohipNKhSsW1Zn-OMQ&usqp=CAU");
+  background-image: url("https://storage.googleapis.com/bitmoto/dealers/all/images/service/vehicle-services.jpg");
+  background-image: url("https://wallpaperaccess.com/full/2085201.jpg");
+ opacity: 0.9;
+ opacity: calc(0.bp);
+ background-size: cover;
+ background-position: center;
+ background-color: #282c34;
+  display: flex;
+  text-align: center;
+  justify-content: left;
+  flex-direction: column;
+  color: white;
+}

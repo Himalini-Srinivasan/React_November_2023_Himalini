@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "email": "22it047",
+      "password" : "12345"
+    },
+    {
+      "email": "22it937",
+      "password" : "23456"
+    },
+    {
+      "email": "22cse047",
+      "password" : "34567"
+    },
+    {
+      "email": "22cy457",
+      "password" : "45678"
+    },
+    {
+      "email": "22cy123",
+      "password" : "56789"
+    }
+  ]
+}

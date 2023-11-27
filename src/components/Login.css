@@ -1,0 +1,17 @@
+.Login
+{
+ background-color: #282c34;
+ background-image: url("https://www.technocrazed.com/wp-content/uploads/2015/12/HD-purple-wallpaper-image-to-use-as-background-113.jpg");
+ background-image: url("https://wallpaperaccess.com/full/2314950.jpg");
+ background-image: url("https://wallpapers.com/images/hd/plant-with-peach-color-aesthetic-backdrop-5578jjkyd1ijp9rl.jpg");
+ background-image: url("https://static.vecteezy.com/system/resources/previews/025/440/126/original/dark-blue-polygonal-abstract-background-with-golden-lines-abstract-3d-illustration-template-good-for-web-design-vector.jpg");
+ background-size: cover;
+ text-align: center;
+ min-height: 100vh;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ font-size: calc(10px + 2vmin);
+ color: rgb(189, 83, 83);
+}
